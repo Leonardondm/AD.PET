@@ -1,0 +1,28 @@
+.width80{
+    width: 80vw; 
+ }
+ 
+ .tabela{
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ .tabela-linha{
+     background-color: #e8e7e7;
+ }
+
+.botao_barra{
+    border: none;
+    background: none;
+    color: white;
+    margin-bottom: 4vh;
+    transition: 0.5s;
+}
+
+.botao_sair{
+    border: none;
+    background: none;
+    color: white;
+    margin-top: 30vh;
+    
+} 
